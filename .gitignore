@@ -299,3 +299,11 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+.DS_STORE
+
+20-design.tex
+30-technology.tex
+40-research.tex
+50-conclusion.tex
+70-application.tex

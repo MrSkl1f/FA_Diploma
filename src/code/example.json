@@ -1,0 +1,69 @@
+{
+    "response": [
+        {
+            "id": 40409863,
+            "first_name": "Denis",
+            "last_name": "Sklifasovskiy",
+            "can_access_closed": true,
+            "is_closed": false,
+            "sex": 2,
+            "online": 1,
+            "bdate": "4.9.2000",
+            "city": {
+                "id": 1,
+                "title": "Moscow"
+            },
+            "country": {
+                "id": 1,
+                "title": "Russia"
+            },
+            "timezone": 3,
+            "has_photo": 1,
+            "has_mobile": 1,
+            "activities": "",
+            "followers_count": 228,
+            "career": [],
+            "military": [
+                {
+                    "country_id": 1,
+                    "unit": "Нет",
+                    "unit_id": 227
+                }
+            ],
+            "university": 250,
+            "university_name": "BMSTU",
+            "faculty": 0,
+            "faculty_name": "",
+            "graduation": 0,
+            "home_town": "Moscow",
+            "relation": 2,
+            "personal": {
+                "alcohol": 0,
+                "inspired_by": "",
+                "langs": [
+                    "Russian"
+                ],
+                "life_main": 0,
+                "people_main": 0,
+                "smoking": 1
+            },
+            "counters": {
+                "albums": 0,
+                "audios": 979,
+                "followers": 228,
+                "friends": 165,
+                "gifts": 142,
+                "groups": 199,
+                "online_friends": 15,
+                "pages": 124,
+                "photos": 24,
+                "subscriptions": 0,
+                "user_photos": 0,
+                "videos": 18,
+                "new_photo_tags": 0,
+                "new_recognition_tags": 0,
+                "clips_followers": 393
+            }
+        }
+    ]
+}

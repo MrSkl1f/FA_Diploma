@@ -1,0 +1,4 @@
+https://api.vk.com/method/users.search?access_token=TOKEN&v=5.131&
+count=999&city=1&fields=activities,bdate,career,city,country,education,
+followers_count,counters,has_mobile,has_photo,home_town,military,online,
+personal,relation,sex,timezone
